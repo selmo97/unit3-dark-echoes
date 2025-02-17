@@ -1,4 +1,4 @@
-# React TV
+# Dark Echoes
 
 ![The application shows a list of episodes of a TV series. A detailed description is shown for a selected episode.](./example.png)
 
