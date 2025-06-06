@@ -1,3 +1,5 @@
+//import statements
 export default function App() {
-  // TODO
+  // vvariables and javascript logic
+  //return(JSX and Javascript)
 }
